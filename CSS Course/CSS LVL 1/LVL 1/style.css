@@ -1,0 +1,13 @@
+h1 {
+    /*Hex value for goldenrod color*/
+    color: #daa520;
+}
+
+body {
+    background-color: rgb(red, green, blue)
+}
+
+button {
+    background-color: red;
+    color: yellow;
+}

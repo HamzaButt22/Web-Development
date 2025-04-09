@@ -1,0 +1,45 @@
+#box {
+    background-color: blue;
+    color: white;
+}
+
+.heading {
+    color: red;
+}
+
+button {
+    background-color: green;
+}
+
+p {
+    text-align: start;
+}
+
+h1 {
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+}
+
+#Javeria {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    line-height: 10px;
+}
+
+#Haziqa {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: end;
+    line-height: 20px;
+}
+
+#Hadia {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: start;
+    line-height: 30px;
+}
